@@ -85,7 +85,7 @@ export default async function handler(req: any, res: any) {
               timestamp: new Date().toISOString(),
               "footer": {
                   "text": "PAPER PEEPS",
-                  "icon_url": "https://assets-global.website-files.com/641a8c4cac3aee8bd266fd58/642b5b2804ea37191a59737b_favicon-32x32.png",
+                  "icon_url": "public/vaz.jpeg",
               }
             }
           ],
