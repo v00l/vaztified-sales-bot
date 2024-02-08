@@ -85,7 +85,7 @@ export default async function handler(req: any, res: any) {
               timestamp: new Date().toISOString(),
               "footer": {
                   "text": "PAPER PEEPS",
-                  "icon_url": "public/vaz.jpeg",
+                  "icon_url": "",
               }
             }
           ],
