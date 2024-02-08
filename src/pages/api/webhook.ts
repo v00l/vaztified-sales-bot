@@ -85,7 +85,7 @@ export default async function handler(req: any, res: any) {
               timestamp: new Date().toISOString(),
               "footer": {
                   "text": "PAPER PEEPS",
-                  "icon_url": "",
+                  "icon_url": "https://prod-image-cdn.tensor.trade/images/400x400/freeze=false/https%3A%2F%2Fprod-tensor-creators-s3.s3.us-east-1.amazonaws.com%2Fimage%2F3392d6be-9535-4cee-a8e5-064cd9f009bb",
               }
             }
           ],
